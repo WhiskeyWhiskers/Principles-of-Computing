@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c18a3d40-6f6a-444d-829f-a1025823de54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2048_Merge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple_bank_account.py" />
-    </list>
+    <list default="true" id="c18a3d40-6f6a-444d-829f-a1025823de54" name="Default" comment="" />
     <ignored path="Principles-of-Programming.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,6 +109,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c18a3d40-6f6a-444d-829f-a1025823de54" name="Default" comment="" />

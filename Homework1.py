@@ -1,6 +1,6 @@
 __author__ = 'Akerson'
 
-
+# Testing to make sure git is synced with my cpu
 def appendsums(lst):
     i = 0
     while (i < 25):
